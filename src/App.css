@@ -1,10 +1,12 @@
 .App {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
+  padding: 30px;
 }
 
 .grid {
+  margin: 30px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
